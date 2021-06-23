@@ -1,0 +1,37 @@
+= Dokumen Usulan Pembangunan Sistem Informasi
+
+[.text-center]
+Priyanto Tamami <tamami.oka@gmail.com>
+
+[.text-center]
+Badan Pendapatan Daerah +
+Pemerintah Kabupaten Brebes
+
+:doctype: article
+:author: tamami
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Bab
+:figure-caption: Gambar 
+:icons: font
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+
+== Hasil Identifikasi Permasalahan
+
+atau peluang untuk meningkatkan produktivitas pada proses bisnis berjalan disertai data pendukung (30%)
+
+== Hasil Uraian Masalah Utama
+
+menjadi akar masalah menggunakan diagram _fishbone_/_mind map_ atau penjelasan terkait peningkatan pada setiap domain kerangka PIECES (Performance, Information, Economics, Control, Efficiency, Services) (40%)
+
+== Penjelasan Solusi
+
+penjelasan solusi yang ditawarkan sitem informasi (30%)
